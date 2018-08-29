@@ -21,7 +21,7 @@ binaries for Mac, Windows, and Linux are available for download from the
 this GitHub repository via the following URL.  Please download the file
 appropriate for your operating system.
 
-https://github.com/jimgarrett123/openshift_workshop/tree/master/CLI
+https://github.com/dfaile/openshift_workshop/tree/master/CLI
 
 *Installing the CLI tools*
 
